@@ -1,0 +1,3 @@
+project=hanami_automatic_json_parameter_logger
+test=minitest
+template=erb
